@@ -13,7 +13,7 @@
 
 ### About
 
-I'm Sahil. I'm doing an MCA at K J Somaiya Institute of Management in Mumbai (2025 to 2027), after a BMS. Most of my backend work is Java and Spring Boot with PostgreSQL. I've also built and deployed apps with FastAPI and React, including a FastAPI app on cPanel shared hosting.
+I'm Sahil. I'm doing an MCA at K J Somaiya Institute of Management in Mumbai (2025 to 2027), after a BMS. I usually start from what the business needs and work back to the API. Most of my backend work is Java and Spring Boot with PostgreSQL. I've also built and deployed apps with FastAPI and React, including a FastAPI app on cPanel shared hosting.
 
 My team was runner-up at the KJSIM Hackathon 2026, the Smart India Hackathon prequalifiers at Somaiya. I'm looking for an SDE-1 role or a software engineering internship in Mumbai, Pune, or remote.
 
