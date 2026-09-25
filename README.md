@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=180&section=header&text=Sahil%20Singh&fontSize=48&fontColor=ffffff&desc=Backend-focused%20Full-Stack%20Software%20Engineer&descAlignY=72&descSize=18" alt="Sahil Singh, Backend-focused Full-Stack Software Engineer" width="100%">
+  <img src="banner.jpg" alt="Desk with a laptop, coffee, notebook, and glasses" width="100%">
 </p>
 
 <p align="center">
