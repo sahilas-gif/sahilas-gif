@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Desk with a laptop, coffee, notebook, and glasses" width="100%">
+  <img src="banner.png" alt="Hi, I'm Sahil Singh. Backend-focused full-stack software engineer." width="100%">
 </p>
 
 <p align="center">
