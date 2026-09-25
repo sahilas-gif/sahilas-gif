@@ -79,3 +79,11 @@ I'm Sahil, an MCA student at K J Somaiya Institute of Management in Mumbai. I bu
     <img alt="Languages by commits" height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilas-gif&theme=tokyonight">
   </a>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilas-gif/sahilas-gif/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilas-gif/sahilas-gif/output/github-snake.svg">
+    <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/sahilas-gif/sahilas-gif/output/github-snake.svg">
+  </picture>
+</p>
