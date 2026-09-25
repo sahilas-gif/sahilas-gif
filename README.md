@@ -11,31 +11,29 @@
 
 ---
 
-### Hi! 👋
+### About
 
-I'm Sahil, an MCA student at K J Somaiya Institute of Management in Mumbai. I build backends in **Java and Spring Boot** with PostgreSQL, and ship full-stack apps with **FastAPI and React**. My BMS background means I like starting from the business problem and working back to the API.
+I'm Sahil. I'm doing an MCA at K J Somaiya Institute of Management in Mumbai (2025 to 2027), after a BMS. Most of my backend work is Java and Spring Boot with PostgreSQL. I've also built and deployed apps with FastAPI and React, including a FastAPI app on cPanel shared hosting.
 
-- 🎓 **Now:** MCA at K J Somaiya Institute of Management, Somaiya Vidyavihar University (2025 to 2027)
-- 🛠️ **Building:** production web apps for real clients, from REST APIs to cPanel deployments
-- 🏆 **Recent:** runner-up at the KJSIM Hackathon 2026 (Smart India Hackathon prequalifiers)
-- 🔭 **Open to:** SDE-1 and software engineering internship roles in Mumbai, Pune, or remote
-- 💬 **Ask me about:** Spring Boot APIs, JWT auth, Gemini model fallback chains, deploying FastAPI on shared hosting
+My team was runner-up at the KJSIM Hackathon 2026, the Smart India Hackathon prequalifiers at Somaiya. I'm looking for an SDE-1 role or a software engineering internship in Mumbai, Pune, or remote.
+
+The work I can talk through in detail is Spring Boot APIs, JWT auth, a Gemini model fallback chain, and getting FastAPI to run on shared hosting.
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**AqiLizer**](https://github.com/sahilas-gif/AqiLizer) | Health-focused navigation platform (NEP capstone, backend lead). Async polyline sampling cut API payload size by over 80%; Kalman filtering corrects GPS drift. | Java, Spring Boot, PostgreSQL, Google Air Quality & Directions APIs |
-| [**Zenhospitality.in**](https://github.com/sahilas-gif/Zenhospitality) · [live](https://zenhospitality.in/) | AI travel platform in production. Gemini itinerary generation with a 3-tier model fallback, JWT auth with silent refresh, async SQLAlchemy layer. | FastAPI, React 19, SQLAlchemy 2.0, Gemini AI |
-| [**Magic Mehendi Art by Punam**](https://github.com/sahilas-gif/magicmakeover) · [live](https://magicmehendiartbypunam.netlify.app/) | Booking and portfolio site for a mehendi artist, built mobile-first for a 90%+ smartphone audience, with Twilio SMS and email notifications. | React 19, Spring Boot 4, PostgreSQL (Neon) |
-| [**AI Chatbot for Zeu**](https://chatbot-in-marketing-1.onrender.com/) | Service-recovery chatbot built during my Zeu (formerly NexKirana) internship, adopted by the startup Riddl. Gemini multi-model failover and automatic human handoff. | React, FastAPI, Tailwind CSS, Gemini API |
-| [**Portfolio**](https://github.com/sahilas-gif/portfolio_website) · [live](https://portfolio-website-sahil-as-gif.vercel.app/) | My personal portfolio site. | React, Vite, GSAP |
+| [AqiLizer](https://github.com/sahilas-gif/AqiLizer) | Health-focused navigation platform (NEP capstone, backend lead). Async polyline sampling cut API payload size by over 80%. Kalman filtering corrects GPS drift. | Java, Spring Boot, PostgreSQL, Google Air Quality and Directions APIs |
+| [Zenhospitality.in](https://github.com/sahilas-gif/Zenhospitality) · [live](https://zenhospitality.in/) | AI travel platform in production. Gemini itinerary generation with a 3-tier model fallback, JWT auth with silent refresh, and an async SQLAlchemy layer. | FastAPI, React 19, SQLAlchemy 2.0, Gemini AI |
+| [Magic Mehendi Art by Punam](https://github.com/sahilas-gif/magicmakeover) · [live](https://magicmehendiartbypunam.netlify.app/) | Booking and portfolio site for a mehendi artist. Mobile-first, for an audience that was over 90% on phones, with Twilio SMS and email notifications. | React 19, Spring Boot 4, PostgreSQL (Neon) |
+| [AI chatbot for Zeu](https://chatbot-in-marketing-1.onrender.com/) | Service-recovery chatbot from my internship at Zeu (formerly NexKirana). The startup Riddl adopted it. Gemini multi-model failover, and the chat hands off to a person when the user gets frustrated. | React, FastAPI, Tailwind CSS, Gemini API |
+| [Portfolio](https://github.com/sahilas-gif/portfolio_website) · [live](https://portfolio-website-sahil-as-gif.vercel.app/) | My portfolio site. | React, Vite, GSAP |
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -53,7 +51,7 @@ I'm Sahil, an MCA student at K J Somaiya Institute of Management in Mumbai. I bu
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - Java Spring Framework, Spring Boot, Spring AI - Gen AI (Telusko, Udemy, 2026)
 - The Complete Full-Stack Web Development Bootcamp (Angela Yu, Udemy, 2026)
@@ -62,7 +60,7 @@ I'm Sahil, an MCA student at K J Somaiya Institute of Management in Mumbai. I bu
 
 ---
 
-### 🏆 GitHub
+### GitHub
 
 <p align="center">
   <a href="https://github.com/sahilas-gif">
